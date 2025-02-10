@@ -5,3 +5,8 @@ Ejemploo de salida
 ejemplo de salida funcion normal + funcion flecha
 
 ![alt text](image.png)
+
+
+ejemplo salida funcion con parametro posicional
+
+![alt text](image-2.png)
