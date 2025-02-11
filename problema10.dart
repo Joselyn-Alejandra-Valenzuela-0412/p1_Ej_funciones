@@ -1,6 +1,6 @@
 import 'dart:io';
 
-// Función para crear la lista
+// Función para crear la lista CAPTURAR DATOS
 List<String> crearLista() {
   List<String> lista = []; // Crear una lista vacía
   print("¿Cuántas palabras quieres agregar a la lista?");
@@ -15,7 +15,7 @@ List<String> crearLista() {
   return lista; // Devolver la lista llena
 }
 
-// Función para mostrar la lista y buscar la palabra
+// Función para mostrar la lista y buscar la palabra MOSTRAR DATOS
 void buscarPalabra(List<String> lista, String palabraBuscada) {
   print("\nTus palabras son:");
   for (String palabra in lista) {
