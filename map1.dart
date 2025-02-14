@@ -14,7 +14,11 @@ void main() {
     11: 'Noviembre',
     12: 'Diciembre',
   };
+
+
+
 print('el mes 1 es:  ${meses[1]}');
+
   // Imprimir el Map
   print('Meses del año:');
   // usando forEach
