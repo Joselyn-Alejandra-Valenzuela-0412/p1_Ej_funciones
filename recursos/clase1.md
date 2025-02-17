@@ -1,5 +1,5 @@
 
 
-salida del ejemplo clase1
+salida de datos clase 1
 
-![alt text](image-8.png)
+![alt text](image-9.png)
